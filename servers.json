@@ -2,7 +2,7 @@
   "servers": [
     {
       "name": "calmchar",
-      "address": "https://anisette-v3-server-q8am.onrender.com/"
+      "address": "https://anisette-v3-server-q8am.onrender.com"
     },
     {
       "name": "SideStore",
